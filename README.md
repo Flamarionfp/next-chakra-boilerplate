@@ -4,6 +4,7 @@ By: [Flamarion Fagundes Pinto](https://www.linkedin.com/in/flamarion-fagundes-pi
 
 Main Installed Libs:
 
+* Axios;
 * Chakra UI;
 * Storybook;
 * Eslint;
