@@ -1,3 +1,3 @@
 export interface ExampleProps {
-  text: string;
+  text?: string;
 }
