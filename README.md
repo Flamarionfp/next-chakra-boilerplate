@@ -4,13 +4,13 @@ By: [Flamarion Fagundes Pinto](https://www.linkedin.com/in/flamarion-fagundes-pi
 
 Main Installed Libs:
 
-* Axios;
 * Chakra UI;
 * Storybook;
 * Eslint;
 * Loadash;
 * Jest;
 * React Testing Library;
+* Axios;
 
 Resources: 
 
@@ -22,4 +22,5 @@ Resources:
 * Loadash (many utils methods);
 * Jest (run tests in React JS);
 * React Testing Library (write tests in React JS);
+* Axios (HTTP requests) ;
 
