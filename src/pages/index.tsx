@@ -1,5 +1,5 @@
 import React from 'react';
-import { Heading, Center, HStack, Link, Text, VStack } from '@chakra-ui/react';
+import { Heading, Center, HStack, Link, Text } from '@chakra-ui/react';
 
 const Home: React.FC = () => (
   <>
@@ -17,7 +17,6 @@ const Home: React.FC = () => (
       <Link pl="2" color="primary.400" href="https://www.linkedin.com/in/bruno-domingues-da-silva/">Bruno Domingues da Silva</Link>
     </Center>
   </>
-
 );
 
 export default Home;
