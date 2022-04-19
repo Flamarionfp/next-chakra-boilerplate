@@ -5,6 +5,6 @@ describe("Example component", () => {
   it("renders correctly", () => {
     const { getByText } = render(<Example />);
 
-    expect(getByText("Hello World")).toBeTruthy();
+    expect(getByText("Example Component")).toBeTruthy();
   })
 })
